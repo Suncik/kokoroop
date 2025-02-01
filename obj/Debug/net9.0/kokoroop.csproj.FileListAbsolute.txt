@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\kokoroop\bin\Debug\net9.0\kokoroop.exe
+C:\Users\user\Desktop\kokoroop\bin\Debug\net9.0\kokoroop.deps.json
+C:\Users\user\Desktop\kokoroop\bin\Debug\net9.0\kokoroop.runtimeconfig.json
+C:\Users\user\Desktop\kokoroop\bin\Debug\net9.0\kokoroop.dll
+C:\Users\user\Desktop\kokoroop\bin\Debug\net9.0\kokoroop.pdb
+C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\kokoroop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\kokoroop.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\kokoroop.AssemblyInfo.cs
+C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\kokoroop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\kokoroop.dll
+C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\refint\kokoroop.dll
+C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\kokoroop.pdb
+C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\kokoroop.genruntimeconfig.cache
+C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\ref\kokoroop.dll
