@@ -12,3 +12,4 @@ C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\refint\kokoroop.dll
 C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\kokoroop.pdb
 C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\kokoroop.genruntimeconfig.cache
 C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\ref\kokoroop.dll
+C:\Users\user\Desktop\kokoroop\obj\Debug\net9.0\kokoroop.sourcelink.json

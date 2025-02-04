@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kokoroop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc1f4e652175795e157de35ec42c87ab46e7a61f")]
 [assembly: System.Reflection.AssemblyProductAttribute("kokoroop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kokoroop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
